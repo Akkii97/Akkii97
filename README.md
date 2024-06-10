@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akkii97
+- 👋 Hi, I’m Akash Kumar
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning web development 
 <!---
